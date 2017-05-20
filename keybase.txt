@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/chferfa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chferfa.github.io
+  * I am chferfa (https://keybase.io/chferfa) on keybase.
+  * I have a public key ASA_QaKP3PiUKzs1Q6pcNxOt3ehceTXnc0BcxZg0xuV0jAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01203f41a28fdcf8942b3b3543aa5c3713addde85c7935e773405cc59834c6e5748c0a",
+            "host": "keybase.io",
+            "kid": "01203f41a28fdcf8942b3b3543aa5c3713addde85c7935e773405cc59834c6e5748c0a",
+            "uid": "6218b4129c039d6ce71605f9c4299419",
+            "username": "chferfa"
+        },
+        "service": {
+            "hostname": "chferfa.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1495288593,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495288563,
+        "hash": "b5e66550cce24c296977b0a5f24aa421e9a2a357a9cd10cd12ccb09ef13465cd1b39e6816ff60862278fc5d67d72ee6966d0e483d5497e7a4b1de5bdde413ff5",
+        "seqno": 1097713
+    },
+    "prev": "177640e459df54b00b62850c59514495d573b14840f189e954d790cea0c49645",
+    "seqno": 53,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP0Gij9z4lCs7NUOqXDcTrd3oXHk153NAXMWYNMbldIwKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwM2Y0MWEyOGZkY2Y4OTQyYjNiMzU0M2FhNWMzNzEzYWRkZGU4NWM3OTM1ZTc3MzQwNWNjNTk4MzRjNmU1NzQ4YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2Y0MWEyOGZkY2Y4OTQyYjNiMzU0M2FhNWMzNzEzYWRkZGU4NWM3OTM1ZTc3MzQwNWNjNTk4MzRjNmU1NzQ4YzBhIiwidWlkIjoiNjIxOGI0MTI5YzAzOWQ2Y2U3MTYwNWY5YzQyOTk0MTkiLCJ1c2VybmFtZSI6ImNoZmVyZmEifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNoZmVyZmEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjIifSwiY3RpbWUiOjE0OTUyODg1OTMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NTI4ODU2MywiaGFzaCI6ImI1ZTY2NTUwY2NlMjRjMjk2OTc3YjBhNWYyNGFhNDIxZTlhMmEzNTdhOWNkMTBjZDEyY2NiMDllZjEzNDY1Y2QxYjM5ZTY4MTZmZjYwODYyMjc4ZmM1ZDY3ZDcyZWU2OTY2ZDBlNDgzZDU0OTdlN2E0YjFkZTViZGRlNDEzZmY1Iiwic2Vxbm8iOjEwOTc3MTN9LCJwcmV2IjoiMTc3NjQwZTQ1OWRmNTRiMDBiNjI4NTBjNTk1MTQ0OTVkNTczYjE0ODQwZjE4OWU5NTRkNzkwY2VhMGM0OTY0NSIsInNlcW5vIjo1MywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDjZv12TWa3j4CwKQmXpFzPE0KFJEA7n3la1Ys6pkoCqynoJXJRhsZfoWjWrVwCPBa/ixqFNGUi6AZET0lnmYoNqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgnTd1tGoJ2yU7eBg+8OyDKrSRjocEjrc/DHcnB+n1jl2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chferfa
+
+==================================================================
